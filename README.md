@@ -1,8 +1,6 @@
-# React + Vite
+# Character and Word Counter developed using react js tailwind css
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Demo
 
-Currently, two official plugins are available:
+https://github.com/pranjit-medhi/word-counter/assets/15957817/e418d477-591b-4fe6-8bd6-9daaffce1138
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
